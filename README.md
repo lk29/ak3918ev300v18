@@ -1,3 +1,3 @@
-SDK for ak3918ev300v18 MCU
+SDK for Anyka ak3918ev300v18 MCU
 
 
